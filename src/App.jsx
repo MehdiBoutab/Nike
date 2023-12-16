@@ -8,6 +8,7 @@ import SpecialOffer from './sections/SpecialOffer'
 import Subscribe from './sections/Subscribe'
 import SuperQuality from './sections/SuperQuality'
 
+
 export default function App() {
   return (
     <main className="relative">
