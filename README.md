@@ -10,7 +10,7 @@ Nike is a responsive web application built with React using Vite as the build to
 - [Contributing](#contributing)
 ## Demo
 
-You can access the live demo of Nike [here](https://your-demo-url.com).
+You can access the live demo of Nike [here](https://mehdiboutab.github.io/Nike/).
 
 
 ## Installation
